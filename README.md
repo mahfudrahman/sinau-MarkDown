@@ -18,6 +18,6 @@ Kita bisa pakai software :
 4. Sublime Text Editor [Link](https://www.sublimetext.com/)
 5. dll
 
-Ngko di update **_Alasan Wae_** :laughing:
+Ngko di update kontene ( **_Alasan Wae_** ) :laughing:
 
 **Referensi** [1](https://mashable.com/2013/06/24/markdown-tools/#Tmiy_WeSAZq0), [2](https://itsfoss.com/best-markdown-editors-linux/), [3](https://www.slant.co/topics/2134/~best-markdown-editors-for-linux)
