@@ -20,7 +20,4 @@ Kita bisa pakai software :
 
 Ngko di update **_Alasan Wae_** :laughing:
 
-Link **Referensi** [1][satu], [2][dua], [3][tiga]
-[satu]: https://mashable.com/2013/06/24/markdown-tools/#Tmiy_WeSAZq0
-[dua]: https://itsfoss.com/best-markdown-editors-linux/
-[tiga]: https://www.slant.co/topics/2134/~best-markdown-editors-for-linux
+**Referensi** [1](https://mashable.com/2013/06/24/markdown-tools/#Tmiy_WeSAZq0), [2](https://itsfoss.com/best-markdown-editors-linux/), [3](https://www.slant.co/topics/2134/~best-markdown-editors-for-linux)
