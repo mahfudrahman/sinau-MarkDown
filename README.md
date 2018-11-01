@@ -11,4 +11,16 @@ _Terus apa yang menjadi kelebihannya ?_ Si dia ini enak di format kepenulisannya
 
 ## Tools / Peralatan
 
+Kita bisa pakai software :
+1. Visual Studio Editor [Link]()
+2. Haroopad [Link](http://pad.haroopress.com/)
+3. Atom [Link](https://atom.io/)
+4. Sublime Text Editor [Link](https://www.sublimetext.com/)
+5. dll
+
 Ngko di update **_Alasan Wae_** :laughing:
+
+Link **Referensi** [1][satu], [2][dua], [3][tiga]
+[satu]: https://mashable.com/2013/06/24/markdown-tools/#Tmiy_WeSAZq0
+[dua]: https://itsfoss.com/best-markdown-editors-linux/
+[tiga]: https://www.slant.co/topics/2134/~best-markdown-editors-for-linux
